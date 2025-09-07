@@ -1,6 +1,6 @@
-🏦 Banking Application For Account Management
+**🏦 Banking Application For Account Management**
 
-📌 Overview
+**📌 Overview**
 
 This is a Java console-based banking application that allows users to manage multiple bank accounts.
 The system supports basic banking operations such as creating accounts, depositing money, withdrawing money, viewing account details, and updating contact information.
@@ -17,7 +17,7 @@ It demonstrates the use of Java programming concepts such as:
 
 5) User Input using Scanner
 
-🎯 Features
+**🎯 Features**
 
 1) Create a new bank account with auto-generated account number
 
@@ -31,19 +31,20 @@ It demonstrates the use of Java programming concepts such as:
 
 6) Menu-driven user interface
 
-🛠️ Technologies Used
+**🛠️Technologies Used**
+
 
   Language: Java
 
   IDE: Visual Studio Code
 
-📂 Project Structure
+📂**Project Structure**
 
 - BankingApplication.java// Main application file
 
 - README.md// Project Documentation
 
-🖥️ Sample Run
+**🖥️ Sample Run**
 
 Welcome to Banking Application!
 
